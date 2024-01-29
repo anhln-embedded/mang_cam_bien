@@ -1,0 +1,11 @@
+{
+    "address": 2,
+    "data": {
+        "temp": "32.60",
+        "humi": "70.10",
+        "soil": "0",
+        "ss_light": "46",
+        "light": "0",
+        "pump": "1"
+    }
+}
